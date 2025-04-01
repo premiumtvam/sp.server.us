@@ -59,16 +59,10 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVWJxgO.png" group-title="Общероссийские",Каскад тв
-http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/57kbhVA.png" group-title="Общероссийские",Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
-http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
