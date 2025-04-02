@@ -88,7 +88,7 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV (Dolby)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://ix.goodgame.ru/hls/214536.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="Кинозалы",4K Hits 
