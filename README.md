@@ -90,7 +90,7 @@ http://195.9.195.3:8080/hls/204708.m3u8
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
 #EXTVLCOPT:http-user-agent=SmartTV
-https://msk-rtmp-vk8.streamvi.io/live/0f407320-5b71-4c88-afdc-adab3afadd49/audio2_stream.m3u8
+https://msk-rtmp-vk8.streamvi.io/live/0f407320-5b71-4c88-afdc-adab3afadd49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="Кинозалы",4K Hits 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://ix.goodgame.ru/hls/206513.m3u8
