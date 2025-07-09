@@ -77,8 +77,6 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/BN50RvB.png" group-title="Кино",Sunset Serial HD
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/SkAVD3c.png" group-title="Кино",,Sunset Fantastic HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
@@ -89,6 +87,8 @@ http://195.9.195.3:8080/hls/204708.m3u8
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV 
 https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
+https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
