@@ -85,9 +85,9 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV 720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L5T1H1k.png" group-title="Кинозалы",VHDV TV 720
 https://132544.edgevideo.ru/streams/132544_968144/132544720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV 1080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L5T1H1k.png" group-title="Кинозалы",VHDV TV 1080
 https://132544.edgevideo.ru/streams/132544_968144/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
