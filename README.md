@@ -75,8 +75,6 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/BN50RvB.png" group-title="Кино",Sunset Serial HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
@@ -85,9 +83,9 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L5T1H1k.png" group-title="Кинозалы",VHDV TV 720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 720
 https://132544.edgevideo.ru/streams/132544_968144/132544720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L5T1H1k.png" group-title="Кинозалы",VHDV TV 1080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
 https://132544.edgevideo.ru/streams/132544_968144/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
