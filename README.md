@@ -84,7 +84,7 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD
 https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
 
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD с архивом стабильная
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
 https://live.kinescopecdn.net/on-air/c5adb99f-c2ea-4393-a69f-fb3d7fafec2e/b8c9c878-f305-4ba0-9e02-dd72791744fd/720p/media.m3u8
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811
