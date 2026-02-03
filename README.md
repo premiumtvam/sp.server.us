@@ -83,12 +83,37 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-
+#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811"
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
+http://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk FHD
+http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
 http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal FHD
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdIs4Aq.png" group-title="Кинозалы",KinoJam FHD
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DjFhVVS.png" group-title="Кинозалы",MovieToper FHD
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w06pb8T.png" group-title="Кинозалы",Dimpon TV FHD
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa FHD
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nac769O.png" group-title="Кинозалы",wihail FHD
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIk1Gd8.png" group-title="Кинозалы",Cinema Time FHD
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time FHD
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKgvCzR.png" group-title="Кинозалы",TimeToMovie FHD
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8HHDq.png" group-title="Кинозалы",TimeToHorror FHD
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",Video_Prokat FHD
+http://kinowalk.hopto.org/video_prokat_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
