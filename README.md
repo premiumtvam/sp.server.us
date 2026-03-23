@@ -195,8 +195,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
-#EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="https://i.imgur.com/tAiWdJw.png" group-title="Общероссийские",Мой мир
-https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=5w6YzNzFFdO0gXEeDY5D3w&e=2074183835&scheme=https
 #EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
@@ -367,6 +365,8 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="vevopop" tvg-logo="https://i.imgur.com/6eluDM6.png" group-title="Музыкальные",Vevo Pop HD
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=znpH2n9vEtzG0FkPzwpTbg&e=2074180980&scheme=https
 #EXTINF:-1 tvg-id="rutv" tvg-logo="https://i.imgur.com/yJjwKUr.png" group-title="Музыкальные",RU.TV HD
@@ -471,7 +471,7 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
-https://river-3-353.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/MD1F8o8yg_qS4_y5186OxA/1774784418/ee6a3d5ba98066c2aaace3c428a3170c/1080p_stream.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",Тонус ТВ
@@ -585,51 +585,71 @@ http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV
 http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 tvg-id="4496" tvg-logo="http://epg.one/img/4496.png" group-title="Зарубежные",TVP 1 HD PL
-https://irylek.ct8.pl/stream/tvp1hd
-#EXTINF:-1 tvg-id="4497" tvg-logo="http://epg.one/img/4497.png" group-title="Зарубежные",TVP 2 HD PL
-https://irylek.ct8.pl/stream/tvp2hd
-#EXTINF:-1 tvg-logo="http://epg.one/img/4489.png" group-title="Зарубежные",TVP 3 HD PL
-https://irylek.ct8.pl/stream/tvp3warszawahd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia HD PL
-https://irylek.ct8.pl/stream/tvphistoria
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR DE
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
-#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="Зарубежные",ZDF DE
-https://s6.hopslan.com/zdfX/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3113.png" group-title="Зарубежные",RTL DE
-https://s6.hopslan.com/rtlX1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" group-title="Зарубежные",TRT TÜRK TR
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" group-title="Зарубежные",TRT AVAZ TR
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Зарубежные",Az TV HD AZ
-https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 tvg-id="cbc-hd-az" tvg-logo="http://epg.one/img/2158.png" group-title="Зарубежные",CBC TV AZ
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
-#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/2636.png" group-title="Зарубежные",CBC Sport AZ
-http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxjaMLk.png" group-title="Зарубежные",Adjara TV GE
-https://dvrfl05.tulix.tv/gin-adjara/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAyOjQ2OjIzIFBNJmhhc2hfdmFsdWU9NWlHYmNTNmdTR2JicDhZUVFUamdaUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTEw
-#EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
-https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные",1TV Georgia GE
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://epg.one/img/2673.png" group-title="Зарубежные",11 Channel HD IL
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://epg.one/img/2670.png" group-title="Зарубежные",12 Channel IL
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1732977596~acl=%2f*~data=hdntl~hmac=107393c6756aa2b354a7bd5f7921a630b22a85308d0f38cacc4d2be7c75019f6/profileManifest.m3u8?_uid=e222740e-9ad5-4b3b-9d9e-2bba7591ece3&rK=a2&_did=ceac49885fc164cc10012ab2d9bb0f28de7be35f
-#EXTINF:-1 tvg-id="channel-13-il" tvg-logo="http://epg.one/img/2671.png" group-title="Зарубежные",13 Channel IL
-https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/0/profileManifest.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/mYRoPWW.png" group-title="Зарубежные",14 Channel IL
-https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: CineSony" tvg-logo="https://i.imgur.com/9yXdcVm.png" group-title="Зарубежные",Cine Sony SP	
-https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Aragontv" tvg-logo="https://i.imgur.com/mpiy2VJ.png" group-title="Зарубежные",Aragon TV HD SP
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: telemadrit" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
-https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="h2-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2062.png" group-title="Армения",Հ2
+http://45.159.74.22/ArmeniansecondTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5934.png" group-title="Армения",USA Armenia HD
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 tvg-id="armenia-tv" tvg-logo="https://i.imgur.com/ZaWExUo.png" group-title="Армения",Արմենիա TV HD
+http://45.159.74.22/Armeniatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5940.png" group-title="Армения",Free News HD
+http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png" group-title="Армения",Լուրեր HD
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="azatutyun-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2385.png" group-title="Армения",Ազատություն TV
+http://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nor-hayastan-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/7084.png" group-title="Армения",նոր ՀԱՅԱՍՏԱՆ
+http://45.11.139.43:8555/norhayastan/index.m3u8
+#EXTINF:-1 tvg-id="kentron-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2065.png" group-title="Армения",Կենտրոն
+http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
+http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
+http://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
+http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mDnNFEi.png" group-title="Армения",ԿԻՆՈՄԱՆ
+http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krJaLKS.png" group-title="Армения",Բազմոց TV
+http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք
+http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="shoghakat-am" tvg-rec="7" tvg-logo="http://epg.one/img/2071.png" group-title="Армения",Շողակաթ
+http://45.159.74.22/ShoghakatTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.imgur.com/WTTAbAc.png",ARTN TV
+http://45.11.139.43:8555/artn/index.m3u8
+#EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV Armenia
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
+http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ
+http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7jYfg7.png" group-title="Армения",Դելտա TV
+http://45.11.139.120:8555/delta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Sf8hkA.png" group-title="Армения",Ֆորտունա TV
+http://45.11.139.120:8555/fortuna/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD4UM6i.png" group-title="Армения",Կոտայք TV
+http://45.11.139.120:8555/kotayq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV
+http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV
+http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnekB4h.png" group-title="Армения",Միգ TV
+http://45.11.139.43:8555/mig/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCZbFEF.png" group-title="Армения",ՀԱՅ TV
+http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1gZPZm.png" group-title="Армения",Velari TV
+http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն
+http://45.159.74.22/Channel_116/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttWEwC2.png" group-title="Армения",Delta Music
+http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecVnFCw.png" group-title="Армения",Delta Travel
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV
+http://45.11.139.43:8555/fitnes/index.m3u8
