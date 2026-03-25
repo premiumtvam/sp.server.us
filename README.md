@@ -206,6 +206,12 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KaUROZP.png" group-title="Общероссийские",12 канал HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вот тв HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2538.png" group-title="Общероссийские",Беларусь 1 HD
@@ -309,12 +315,16 @@ http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 FHD
 http://kinowalk.hopto.org/kasseta_live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
+https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Новости",360 HD
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
 http://stream01.vnet.am/Rossia24/mono.m3u8
+#EXTINF:-1 tvg-id="москва-24" tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2170.png" group-title="Новости",Беларусь 24 HD
@@ -324,6 +334,8 @@ https://clck.ru/3F6ZUK
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXOTWkD.png" group-title="Новости",RT News HD
+https://bl.rutube.ru/livestream/e553770139adc990ee5f54972ff4121b/index.m3u8?s=iIIGTevMusHoEmUi81AsVg&e=2074433640&scheme=https
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Детский",Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
@@ -333,6 +345,10 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце 
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="smayltv" tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=hdhbWG242Vv2cqtaLxhXpw&e=2074434608&scheme=https
+#EXTINF:-1 tvg-id="radostmoya" tvg-logo="https://i.imgur.com/5xkns27.png" group-title="Детский",Радость Моя
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L4odvTX2m8IkYp-7ZTKag&e=2074434863&scheme=https
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
@@ -380,8 +396,12 @@ http://89.179.247.144/hls/mixm.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power tv HD
+#EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power tv HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power love tv HD
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power dance tv HD
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV
@@ -455,6 +475,8 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
