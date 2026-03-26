@@ -210,6 +210,15 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/vari
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вот тв HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jy5Roz0.png" group-title="Общероссийские",Югра HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nRnybs.png" group-title="Общероссийские",Девятка ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyHm9Y7.png" group-title="Общероссийские",Вариант V ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ HD
@@ -376,8 +385,10 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="misic 2 int" tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные", Oxygen Music HD
-https://oxygenmusic.hu:2443/hls/oxygenmusic_2200.m3u8
+#EXTINF:-1 tvg-id="Oxygen Music" tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные", Oxygen Music HD
+https://clck.ru/3SkvFe
+#EXTINF:-1 tvg-id="ActivaTV" tvg-logo="https://i.imgur.com/aTrqfYZ.png" group-title="Музыкальные",Activa TV HD
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=zfLkYBXbLUooTlDR_rFgzQ&e=2074521981&scheme=https
 #EXTINF:-1 tvg-id="vevopop" tvg-logo="https://i.imgur.com/6eluDM6.png" group-title="Музыкальные",Vevo Pop HD
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
@@ -474,15 +485,20 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
-https://tv.tvcdnpotok.com/ss6XOgoRdMqy4VDAcR8isA/2011/1774521835/index.m3u8
+https://clck.ru/3SkwAV
 #EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG TV HD
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/4/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+https://clck.ru/3SkwBq
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
+https://clck.ru/3SkwDw
 #EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",UGRA TRAVEL
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
