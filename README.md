@@ -496,7 +496,7 @@ https://clck.ru/3SkwDw
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",UGRA TRAVEL
+#EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="https://i.imgur.com/wqNJhDn.png" group-title="Познавательные",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
