@@ -195,6 +195,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Общероссийские",Сочи24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
@@ -420,7 +423,7 @@ https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
@@ -431,8 +434,6 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4650.png" group-title="Музыкальные",91 NRG
-https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
 #EXTINF:-1 tvg-id="spirit-tv" tvg-rec="0" tvg-logo="http://epg.one/img/4657.png" group-title="Музыкальные",SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV
