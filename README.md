@@ -254,8 +254,6 @@ http://stream01.vnet.am/Bober/index.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-id="romancetv" tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-id="vse tv" tvg-logo="https://i.imgur.com/hyOXtKj.png" group-title="Кино",Малдер Всё ТВ
-http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
@@ -326,6 +324,8 @@ http://kinowalk.hopto.org/akudjitv_live
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 FHD
 http://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 tvg-id="vse tv" tvg-logo="https://i.imgur.com/hyOXtKj.png" group-title="Кинозалы",Малдер Всё ТВ
+http://kinowalk.hopto.org/vsetv_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
 https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
