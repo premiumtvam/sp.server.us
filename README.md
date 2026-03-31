@@ -250,9 +250,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="https://i.imgur.com/27UD1ip.png" group-title="Кино", Кино ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-id="romancetv" tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
@@ -293,7 +290,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=50177"
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
 http://kinowalk.hopto.org/scripachtv_live
@@ -391,14 +388,6 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="mtv-russia" tvg-logo="https://i.imgur.com/gAavCiR.png" group-title="Музыкальные",MTV-russia
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=45105&token=d27f3227d5c67e39ec7817180544581e&server=v2.catcast.tv
-#EXTINF:-1 tvg-id="mtv-00S" tvg-logo="https://i.imgur.com/qhiyxXN.png" group-title="Музыкальные",MTV-00 S
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50344&token=87bcc3cfe19edf222dd80b5b9f941e2e&server=v2.catcast.tv
-#EXTINF:-1 tvg-id="mtv-80S" tvg-logo="https://i.imgur.com/k1Hg2dW.png" group-title="Музыкальные",MTV-80 S
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41188&token=ac540d42ff70fc5123c3e7aa23247b49&server=v2.catcast.tv
-#EXTINF:-1 tvg-id="mtv-90S" tvg-logo="https://i.imgur.com/CKkL2GP.png" group-title="Музыкальные",MTV-90 S
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=46538&token=52464b88bf8478b745f782c70b35c9a8&server=v2.catcast.tv
 #EXTINF:-1 tvg-id="Oxygen Music" tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные", Oxygen Music HD
 https://clck.ru/3SkvFe
 #EXTINF:-1 tvg-id="ActivaTV" tvg-logo="https://i.imgur.com/aTrqfYZ.png" group-title="Музыкальные",Activa TV HD
@@ -439,8 +428,6 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
-https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
@@ -513,10 +500,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="https://i.imgur.com/wqNJhDn.png" group-title="Познавательные",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel Channel HD
-https://s.tvua.biz/tSfJ5E_i8X7hovql0mxARg/113/1774795622/index.m3u8
-#EXTINF:-1 tvg-id="Travel Adventure" tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
-https://s.domatv.net/J4-C4O-uXBgWBw-fHZpLYg/112/1774797385/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
@@ -588,8 +571,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjUUZc.png" group-title="Спортивные",MLB TV
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV 
-https://smotret.tv/error.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yktYU0V.png" group-title="Спортивные",XFC-tv-fightworld
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdmyPuN.png" group-title="Спортивные",Impact-wrestling
@@ -676,5 +657,3 @@ http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV
 http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0OTpJC.png" group-title="Армения",ТБН Армения
-https://164475.gvideo.io/cmaf/164475_650646/media_1.m3u8
