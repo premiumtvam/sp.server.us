@@ -318,14 +318,10 @@ http://kinowalk.hopto.org/timetomovie_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",Video_Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji tv FHD
-http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwHY8ay.png" group-title="Кинозалы",VHS Forever FHD
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 FHD
 http://kinowalk.hopto.org/kasseta_live
-#EXTINF:-1 tvg-id="vse tv" tvg-logo="https://i.imgur.com/hyOXtKj.png" group-title="Кинозалы",Малдер Всё ТВ
-http://kinowalk.hopto.org/vsetv_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
 https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
@@ -601,8 +597,6 @@ http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="azatutyun-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2385.png" group-title="Армения",Ազատություն TV
 http://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nor-hayastan-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/7084.png" group-title="Армения",նոր ՀԱՅԱՍՏԱՆ
-http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1 tvg-id="kentron-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2065.png" group-title="Армения",Կենտրոն
 http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
@@ -617,10 +611,6 @@ http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք
 http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="shoghakat-am" tvg-rec="7" tvg-logo="http://epg.one/img/2071.png" group-title="Армения",Շողակաթ
-http://45.159.74.22/ShoghakatTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://i.imgur.com/WTTAbAc.png",ARTN TV
-http://45.11.139.43:8555/artn/index.m3u8
 #EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV Armenia
 https://songtv.hls.iptvdc.com/web-armenia/playlist.m3u8
 #EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
@@ -629,20 +619,12 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ
 http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7jYfg7.png" group-title="Армения",Դելտա TV
-http://45.11.139.120:8555/delta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Sf8hkA.png" group-title="Армения",Ֆորտունա TV
-http://45.11.139.120:8555/fortuna/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lD4UM6i.png" group-title="Армения",Կոտայք TV
-http://45.11.139.120:8555/kotayq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV
 http://45.11.139.43:8555/geghama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://i.imgur.com/lsAmAuw.png" group-title="Армения",.Արմա TV
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnekB4h.png" group-title="Армения",Միգ TV
-http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kCZbFEF.png" group-title="Армения",ՀԱՅ TV
