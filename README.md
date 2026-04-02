@@ -611,8 +611,6 @@ http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք
 http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV Armenia
-https://songtv.hls.iptvdc.com/web-armenia/playlist.m3u8
 #EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
