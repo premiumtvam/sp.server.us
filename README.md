@@ -195,9 +195,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Общероссийские",Сочи24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Общероссийские",Сочи 24 HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OBAYLy.png" group-title="Общероссийские",Волга 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
@@ -524,8 +527,6 @@ http://stream01.vnet.am/ZooTv/mono.m3u8
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3792.png" group-title="Спортивные",FightBox
-http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="https://i.imgur.com/gRiZ0Qw.png" group-title="Спортивные",Матч! ТВ
@@ -618,7 +619,7 @@ http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ
 http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV
-http://45.11.139.43:8555/geghama/index.m3u8
+http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://i.imgur.com/lsAmAuw.png" group-title="Армения",.Արմա TV
