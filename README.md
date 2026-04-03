@@ -247,6 +247,8 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uhauotH.png" group-title="Общероссийские",Енисей HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4sriJz.png" group-title="Общероссийские",RUTUBE TV HD
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=8dThnR1JWxsSsj-ol_CkAw&e=2075222689&scheme=https
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
@@ -545,6 +547,12 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=XMoYvFCbhiUN-iDYp8dAgg&e=2074427651&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Спортивные",SKY SPORT F1 HD
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Спортивные",SKY SPORTS CRICKET HD
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Спортивные",SKY SPORTS GOLF HD
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Спортивные",SKY SPORTS RACING HD
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Спортивные",SKY SPORT TENNIS HD
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53nLP2H.png" group-title="Спортивные",Unbeaten HD
