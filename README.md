@@ -191,17 +191,17 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="8kanal" tvg-logo="https://i.imgur.com/pYHhWVZ.png" group-title="Общероссийские",8 канал
+#EXTINF:-1 tvg-id="8kanal" tvg-logo="https://i.imgur.com/pYHhWVZ.png" group-title="Общероссийские",8 канал HD
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Общероссийские",Сочи 24 HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2U6m0Xm.png" group-title="Общероссийские",Ники тв HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEaRfMj.png" group-title="Общероссийские",Ника ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
-#EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=LK9eQ9WlB_sza-AC0zkIxA&e=2075201912&scheme=https
+#EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 tvg-id="otc" tvg-rec="7" tvg-logo="https://i.imgur.com/R2hfFo8.png" group-title="Общероссийские",ОТС HD
@@ -213,7 +213,7 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/va
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KaUROZP.png" group-title="Общероссийские",12 канал HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вот тв HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вот ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jy5Roz0.png" group-title="Общероссийские",Югра HD
@@ -225,7 +225,7 @@ https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyHm9Y7.png" group-title="Общероссийские",Вариант V ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос
+#EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос 
 https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ HD
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
@@ -237,14 +237,14 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 logo="https://static.mts.ru/dpc_upload/contents/482/150x150/epg553.png" group-title="Общероссийские",Волгоград 1 HD
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVWJxgO.png" group-title="Общероссийские",Каскад тв
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uhauotH.png" group-title="Общероссийские",Енисей
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhauotH.png" group-title="Общероссийские",Енисей HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
