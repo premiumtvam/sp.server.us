@@ -309,10 +309,6 @@ http://kinowalk.hopto.org/movietoper_live
 http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa FHD
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nac769O.png" group-title="Кинозалы",wihail FHD
-http://kinowalk.hopto.org/wihail_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GIk1Gd8.png" group-title="Кинозалы",Cinema Time FHD
-http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time FHD
 http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UKgvCzR.png" group-title="Кинозалы",TimeToMovie FHD
@@ -583,6 +579,8 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Xp
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AN7EPB5.png" group-title="Спортивные",Horse-and-country-tv
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFMutlI.png" group-title="Спортивные",NFL NETWORK HD
+https://bl.rutube.ru/livestream/179c2a4900d9f5090a66d724bab88a5b/index.m3u8?s=B5P0dKlmsFcDQdqSsMzVrQ&e=2075202180&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network HD
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=oHtbUFxMYippk-wF8J4-LA&e=2074182281&scheme=https
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
