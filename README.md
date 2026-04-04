@@ -198,6 +198,12 @@ https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Общероссийские",Сочи 24 HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCRhCFR.png" group-title="Общероссийские",ДОН 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O69K23W.png" group-title="Общероссийские",Волгоград 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEaRfMj.png" group-title="Общероссийские",Ника ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=LK9eQ9WlB_sza-AC0zkIxA&e=2075201912&scheme=https
@@ -253,6 +259,8 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
+#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",Star Media кино HD
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=eh2IDGnaj8gIa6jI2LLTmg&e=2075296593&scheme=https
 #EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-id="romancetv" tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
@@ -290,7 +298,11 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=50177"
+#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?
+channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?
+channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=50177"
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
+http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk FHD
