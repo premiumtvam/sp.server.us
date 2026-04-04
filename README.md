@@ -360,7 +360,7 @@ https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/uuV98uu.png" group-title="Детский",Мультимания 
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/u3lIkS8.png" group-title="Детский",Союзмультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
