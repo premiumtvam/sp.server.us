@@ -58,6 +58,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир
 https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир HD
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=SAi89z_EDs6ZRYEMxuRuAA&e=2075374724&scheme=https
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
@@ -161,6 +163,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 tvg-id="pyatnizza-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 tvg-id="subota-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=keG413sRfY8MHQwYZjBOaw&e=2075378670&scheme=https
 #EXTINF:-1 tvg-id="subota-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
@@ -195,6 +199,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkoqsWA.png" group-title="Общероссийские",GLN24 Геленджик HD
+https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=ZqUnIsUlE5eDzetsfxL0rA&e=2075375434&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Общероссийские",Сочи 24 HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
@@ -493,6 +499,8 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-id="Waterbear" tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
+https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3SkwAV
 #EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG TV HD
