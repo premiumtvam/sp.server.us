@@ -501,6 +501,8 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="Waterbear" tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",Terra HD
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3SkwAV
 #EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG TV HD
@@ -512,6 +514,8 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="https://i.imgur.com/wqNJhDn.png" group-title="Познавательные",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
+http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
