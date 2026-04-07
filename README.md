@@ -402,8 +402,6 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="Oxygen Music" tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные", Oxygen Music HD
-https://clck.ru/3SkvFe
 #EXTINF:-1 tvg-id="ActivaTV" tvg-logo="https://i.imgur.com/aTrqfYZ.png" group-title="Музыкальные",Activa TV HD
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=zfLkYBXbLUooTlDR_rFgzQ&e=2074521981&scheme=https
 #EXTINF:-1 tvg-id="vevopop" tvg-logo="https://i.imgur.com/6eluDM6.png" group-title="Музыкальные",Vevo Pop HD
@@ -503,26 +501,17 @@ http://stream01.vnet.am/Channel_124/mono.m3u8
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
-https://clck.ru/3SkwAV
-#EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG TV HD
-https://clck.ru/3SkwBq
 #EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="https://i.imgur.com/wqNJhDn.png" group-title="Познавательные",UGRA TRAVEL
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
 http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
-https://clck.ru/3SkwDw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet 
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
