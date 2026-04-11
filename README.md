@@ -12,7 +12,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/146.png" group-title="Общероссийские",Первый канал +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://epg.one/img/711.png" group-title="Общероссийские",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
