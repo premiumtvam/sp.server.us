@@ -413,10 +413,10 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIydRuW.png" group-title="Музыкальные",MAFI2A HD
 https://fl1003.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="	https://i.imgur.com/xF9bQDP.png" group-title="Музыкальные",MGM MUSIC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://kino-stream.online:8080/mgm
 #EXTINF:-1 tvg-logo="	https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",Eurodance 90s HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://kino-stream.online:8080/eurodance90
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
