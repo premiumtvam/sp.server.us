@@ -265,8 +265,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",Star Media кино HD
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=eh2IDGnaj8gIa6jI2LLTmg&e=2075296593&scheme=https
 #EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-id="romancetv" tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
@@ -304,10 +302,6 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?
-channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?
-channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?
-channel_ids=49812,https://api.catcast.tv/api/timetable/epg.xml?
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
@@ -483,10 +477,6 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-id="Waterbear" tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
-https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
-#EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
-http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
@@ -499,12 +489,10 @@ https://clck.ru/3T2YWd
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета 
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV HD
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Waterbear" tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
+https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
