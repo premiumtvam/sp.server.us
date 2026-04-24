@@ -427,14 +427,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=zfLkYBXbLUooTlDR_rFgzQ&e=2074521981&scheme=https
 #EXTINF:-1 tvg-id="vevopop" tvg-logo="https://i.imgur.com/6eluDM6.png" group-title="Музыкальные",Vevo Pop HD
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://i.imgur.com/GuUJRw8.png" group-title="Музыкальные",DTRMUSIC1 HD
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:-1 tvg-logo="	https://i.imgur.com/xF9bQDP.png" group-title="Музыкальные",MGM MUSIC HD
-#EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://kino-stream.online:8080/mgm
-#EXTINF:-1 tvg-logo="	https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",Eurodance 90s HD
-#EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://kino-stream.online:8080/eurodance90
 #EXTINF:-1 tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=znpH2n9vEtzG0FkPzwpTbg&e=2074180980&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
@@ -499,14 +491,10 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3T2YZK
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",Terra HD
-http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
 https://clck.ru/3T2YaD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",TRAVEL CHANNEL HD
 https://clck.ru/3T2YWd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
-http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета 
@@ -662,5 +650,3 @@ http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV
 http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0PqtZmj.png" group-title="Армения",Լայմ TV
-https://v2.catcast.tv/content/40546/index.m3u8
