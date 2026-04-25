@@ -342,7 +342,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
 http://stream01.vnet.am/Rossia24/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24 HD
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
