@@ -432,11 +432,11 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance HD
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=qhzajbtrKbwOd6XCjDmajg&e=2074785241&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power TV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power love tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power love TV HD
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power dance tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power dance TV HD
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
