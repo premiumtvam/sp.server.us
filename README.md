@@ -502,10 +502,10 @@ http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
 http://stream02.vnet.am/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery 
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Investigation Discovery HD
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
