@@ -466,6 +466,8 @@ http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eghnors.png" group-title="Познавательные",Загородный 
+http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eghnors.png" group-title="Познавательные",Загородный HD
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=mGd5reDNxRRy8rbAEWMA2A&e=2074428035&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
