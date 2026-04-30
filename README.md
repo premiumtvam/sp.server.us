@@ -57,7 +57,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир
-https://streaming.thestream.cyou/live/213.m3u8
+http://stream02.vnet.am/HTB/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир HD
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=SAi89z_EDs6ZRYEMxuRuAA&e=2075374724&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
@@ -88,6 +88,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
+#EXTINF:-1 tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ 
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.one/img/3023.png" group-title="Общероссийские",ТНТ +4	
@@ -266,44 +268,50 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь HD 
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance TV  
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qOHpK3.png" group-title="Кино",HollywooD
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT 
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
+#EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT 
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24  
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema  
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD 
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино HD 
 http://stream01.vnet.am/MujskoeKino/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD 
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
+#EXTINF:-1 tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия 
 https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
+#EXTINF:-1 tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ 
 http://stream01.vnet.am/Channel_125/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GcYPC1X.png" group-title="Кино",Amedia 1
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MGqJnw.png" group-title="Кино",Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD 
 http://stream01.vnet.am/Nauka/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD 
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox
+#EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox 
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life
+#EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life 
 http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
+#EXTINF:-1 tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино 
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD  
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion TV HD 
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion TV HD  
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
@@ -317,8 +325,6 @@ http://kinowalk.hopto.org/videoarsenal_live
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjFhVVS.png" group-title="Кинозалы",MovieToper HD
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w06pb8T.png" group-title="Кинозалы",Dimpon TV HD
-http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time HD
@@ -495,6 +501,8 @@ https://stream01.vnet.am/365Dney/index.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdEGZYl.png" group-title="Познавательные",Живая Планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
@@ -515,6 +523,8 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccZAku3.png" group-title="Спортивные",АВТО 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",Тонус ТВ
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
