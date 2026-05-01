@@ -58,11 +58,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир
 http://stream02.vnet.am/HTB/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир HD
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=SAi89z_EDs6ZRYEMxuRuAA&e=2075374724&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир HD
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=SAi89z_EDs6ZRYEMxuRuAA&e=2075374724&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/3020.png" group-title="Общероссийские",Мир +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
@@ -87,11 +87,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ 
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/3023.png" group-title="Общероссийские",ТНТ +4	
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
@@ -165,11 +165,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=keG413sRfY8MHQwYZjBOaw&e=2075378670&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=keG413sRfY8MHQwYZjBOaw&e=2075378670&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
