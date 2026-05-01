@@ -729,7 +729,3 @@ http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
 http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fwI8KkV.png" group-title="Взрослые",Fetish HD
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fwI8KkV.png" group-title="Взрослые",Milf HD
-http://live.redtraffic.xyz/milf.m3u8
